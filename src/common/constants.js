@@ -1,0 +1,1 @@
+export const NO_IMAGE_URL = "http://static.tvmaze.com/images/no-img/no-img-landscape-text.png";       // The image URL when there is no "Show" Or "Episode" image exist
